@@ -93,6 +93,14 @@
 - 측정 대상 : 리튬이온 배터리
 - 기간 : 2021.10 ~ 2021.12  
 ---
+### DSP를 이용한 SPWM 파형 생성
+<img src="">
+
+- 소개 : DSP 보드를 활용하여 SPWM 파형을 생성하고 이를 통헤 출력을 조절하여 직류 모터의 속력을 조절할 수 있는 CCS 프로그램을 제작
+- 기능 : TB모듈 CC모듈 AQ모듈을 사용하여 SPWM 파형을 구현 / 변수의 값을 변경하여 지령파형의 크기(amplitude)와 주파수(frequency)를 가변 
+- 설계 목적 : DSP와 e-모빌리티에 대한 지식 함양 
+- 기간 : 2022.04 ~ 2022.04
+- ---
 ### 날씨에 따른 일 평균 모기 개체수 레벨 예측 프로그램
 <img src="https://user-images.githubusercontent.com/113815471/190899137-f0d38644-880f-4b7a-9a35-fdcbe2053b19.jpg" width="300px">
 
@@ -111,4 +119,4 @@
 ---
 ## To Do List
 
-<img src="https://user-images.githubusercontent.com/113815471/190901018-116cb31d-9cd4-4dd2-93e0-26638f58dabb.jpg">
+<img src="https://user-images.githubusercontent.com/113815471/190901254-a21665ae-d916-4317-83a9-8b0d0f30d071.jpg">
