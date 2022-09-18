@@ -15,3 +15,4 @@ Min Gyu Kim's resume😉
 <h2></h2>
 
 ### 소개
+![프로필사진](https://user-images.githubusercontent.com/113815471/190891392-24ed43fc-0493-4e57-8d73-0e53880b2faf.jpg){: width="300" height="300"}
