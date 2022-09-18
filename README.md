@@ -89,7 +89,7 @@
 - 기간 : 2021.10 ~ 2021.12  
 
 ### 날씨에 따른 일 평균 모기 개체수 레벨 예측 프로그램
-<img src="https://user-images.githubusercontent.com/113815471/190898712-5dd874ad-c058-46b0-b471-a82f4731f0b0.jpg" width="300px">
+<img src="https://user-images.githubusercontent.com/113815471/190899137-f0d38644-880f-4b7a-9a35-fdcbe2053b19.jpg" width="300px">
 - 소개 : 날씨 데이터를 통한 일별 모기 발생 정도를 Multinomial Classification 방식으로 예측하는 프로그램(정확도 85%)
 - 기능 : 온도, 습도, 풍속 등의 날씨 데이터를 입력받으면 이전의 서울시에서 제공된 모기발생 빅데이터를 기반으로 모기의 발생정도를 4단계로 예측한다.
 - 설계 목적 : Pytorch 및 빅데이터 활용능력 함양
